@@ -1,0 +1,31 @@
+html, body
+{
+	background-color:black;
+	height: 98%;
+	width: 98%;
+	background-color: "black";
+	
+}
+
+
+h3 {color:white;
+	height: 15%;
+	user-select: none;
+	text-align: center;
+}
+
+
+#mySVGCanvas {
+	border: 1px solid #00f;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background-image: url("http://m.img.brothersoft.com/android/20/20a5703f420142484e9f5dfba2f2e926_screeshots_1.jpeg");
+	background-size: 600px 400px;
+	background-repeat: no-repeat;
+
+}
+
+
+
+
